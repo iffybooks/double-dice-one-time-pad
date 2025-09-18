@@ -1,0 +1,3 @@
+# Double Dice One-Time Pad
+
+With one-time pad (OTP) encryption, you could post your encoded message on a billboard and feel confident that only the intended recipient will be able to read it. Once both of you have burned your secret keys, no computer on the planet will be able to unscramble it. In this workshop we'll introduce a streamlined system for OTP encryption using 6-sided dice to generate random numbers. We'll use an encoder/decoder tool that fits on a sheet of 8.5"x11" paper, simple enough to reproduce from memory. Then we'll practice encoding and decoding messages using a series of prompts and a whiteboard.

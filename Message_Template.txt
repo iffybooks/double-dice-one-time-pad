@@ -1,0 +1,42 @@
+# Template for sending a short OTP-encrypted message
+
+Step 1: Come up with a unique identifier (number or letter/number combo) and write it in the two "Pad ID" blanks below. 
+
+Step 2: Roll two 6-sided dice, read the digits left to write, and write them in the first blank of the first "Secret Key" line below. Keep rolling the dice and fill in two digits in each of the remaining blanks.
+
+Step 3: Copy your secret key to the 'Receive' form below.
+
+Step 4: Cut/tear your sheet along the line marked (3) below. Give the "Receive" form (bottom half) to your intended recipient.
+
+
+## Send
+
+Secret Key   ->  __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __
+
+
+Cleartext    ->  __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __
+
+✂️(4) _______________________________________________________________________
+
+Pad ID: ______
+
+Ciphertext   ->  __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __
+
+
+✂️(3) _______________________________________________________________________
+
+
+
+## Receive
+
+Pad ID: ______
+
+Secret Key   ->  __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __
+
+
+Ciphertext   ->  __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __
+
+
+Cleartext    ->  __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __
+
+
