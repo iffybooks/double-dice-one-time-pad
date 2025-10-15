@@ -1,3 +1,20 @@
-# Double Dice One-Time Pad
+# Double Dice One-Time Pad Workshop
 
-With one-time pad (OTP) encryption, you could post your encoded message on a billboard and feel confident that only the intended recipient will be able to read it. Once both of you have burned your secret keys, no computer on the planet will be able to unscramble it. In this workshop we'll introduce a streamlined system for OTP encryption using 6-sided dice to generate random numbers. We'll use an encoder/decoder tool that fits on a sheet of 8.5"x11" paper, simple enough to reproduce from memory. Then we'll practice encoding and decoding messages using a series of prompts and a whiteboard.
+## OTP Tools
+
+- [Message Template with Instructions (png)](Message_Template.png)
+- [Message Template with Instructions (pdf)](Message_Template.pdf)
+- [One-Time Pad Encoder/Decoder Sheet (png)](One_Time_Pad_Encoder_Decoder_2025_lg.png)
+- [One-Time Pad Encoder/Decoder Sheet (pdf)](One_Time_Pad_Encoder_Decoder_2025.pdf)
+- [Graph Paper (png)](Graph_Paper_Small.png)
+
+## Teaching Tools
+
+- [Printable Character Wheel](Character_Wheel.pdf)
+- [Whiteboard Prompt List](Whiteboard_Prompts/Prompt_List.pdf)
+- [Whiteboard Prompt List](Whiteboard_Prompts/Prompt_Response_Sheet.png)
+
+## Code
+
+- [Python script for generating encoder/decoder sheet](double_dice_otp_encoder_decoder_generator.py)
+
